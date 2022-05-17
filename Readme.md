@@ -1,15 +1,17 @@
 # Email Unprepared Students
+
 This script will create a CSV file that you can upload to Google Sheets to email each student in your Canvas class a list of the Canvas resources they still need to access for the upcoming assignment.
 
 &nbsp;
 
 ## There might be a better way for you
+
 Depending on the limitations your institution puts on you and on Canvas, you might have a more elegant way to do this. I wrote this because I had very limited access to the Canvas API. In particular, I could not access the message functions.
 
-&nbsp;    
-
+&nbsp;
 
 ### Prerequisites
+
 - You will need to know how to download an activity CSV file from Canvas. Mine have files names in the format MM-DD-YYYY.csv. The menu for downloading the files was recently changed to "New Analytics," which I suspect will change and may be different for you.
 
 - One of the columns in that CSV file needs to be the USERID (or even the entire email address) of the student.
@@ -27,5 +29,3 @@ Depending on the limitations your institution puts on you and on Canvas, you mig
 ### Instructions
 
 I give step-by-step instructions in the Jupyter Notebook.
-
-
