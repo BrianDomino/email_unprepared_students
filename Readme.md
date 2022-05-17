@@ -12,7 +12,7 @@ Depending on the limitations your institution puts on you and on Canvas, you mig
 ### Prerequisites
 - You will need to know how to download an activity CSV file from Canvas. Mine have files names in the format MM-DD-YYYY.csv. The menu for downloading the files was recently changed to "New Analytics," which I suspect will change again and may be different for you.
 
-- One of the columns in that CSV file needs to be the USERID (or evan the entire email address) of the student.
+- One of the columns in that CSV file needs to be the USERID (or even the entire email address) of the student.
 
 - You need a Gmail account. The university I worked for used Gmail, so this was easy. If your school does not, you should make sure that it is acceptable to email students about their academic work from an external account.
 
